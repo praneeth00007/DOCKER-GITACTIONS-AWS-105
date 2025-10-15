@@ -128,7 +128,7 @@ const StudentManager = () => {
 )}
 
 
-      <h2>Student Management AWS</h2>
+      <h2>Student Management 2300031137</h2>
 
       <div>
         <h3>{editMode ? 'Edit Student' : 'Add Student'}</h3>
